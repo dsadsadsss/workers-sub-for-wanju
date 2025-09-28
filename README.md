@@ -21,3 +21,7 @@ https://woker域名/upload-上传密钥
 https://woker域名/token=订阅密钥?cf_ip=ip.sb&cf_port=443
 
 注意:原始节点优选ip必须为ip.sb，端口443或80，才能自动更换优选和端口
+
+# R2存储版
+
+https://github.com/dsadsadsss/workers-sub-R2-wanju.git
