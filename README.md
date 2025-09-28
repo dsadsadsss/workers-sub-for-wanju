@@ -1,4 +1,4 @@
-## 在woker搭建订阅服务器，配合我的玩具脚本，自动生成节点订阅
+#### 在woker搭建订阅服务器，配合我的玩具脚本，自动生成节点订阅
 
 玩具脚本地址:https://github.com/dsadsadsss/java-wanju.git
 
@@ -21,3 +21,5 @@ https://woker域名/upload-上传密钥
 https://woker域名/token=订阅密钥?cf_ip=ip.sb&cf_port=443
 
 注意:原始节点优选ip必须为ip.sb，端口443或80，才能自动更换优选和端口
+
+## 新的使用R2存储的订阅服务器https://github.com/dsadsadsss/workers-sub-for-wanju2.git
