@@ -2,6 +2,8 @@
 
 玩具脚本地址:https://github.com/dsadsadsss/java-wanju.git
 
+ 数据库版本订阅服务器 https://github.com/dsadsadsss/sub-worker-Supabase.git
+
 使用方法:
 
 1.创建名称为kv的kv空间
