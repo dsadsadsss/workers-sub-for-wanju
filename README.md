@@ -6,7 +6,7 @@
 
 使用方法:
 
-1.创建名称为kv的kv空间
+1.创建名称为URL_STORE的kv空间
 
 2.复制woker脚本内容到woker，更改密钥，添加自定义节点
 
@@ -14,11 +14,11 @@
 
 4.把上传节点地址填入玩具脚本变量SUB_URL里面
 
-节点上传地址格式;
+节点上传地址格式：
 
 https://woker域名/upload-上传密钥
 
-订阅地址格式(支持v2rayn):
+订阅地址格式:
 
 https://woker域名/token=订阅密钥?cf_ip=ip.sb&cf_port=443
 
